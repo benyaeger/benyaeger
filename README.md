@@ -1,6 +1,6 @@
 ## Hi - I'm Ben Yaeger 👋
-Welcome to my github profile
-I am a 21 years old backend software angineer and cyber security enthusiast.
+Welcome to my github profile! \
+I am a 21 years old backend software angineer and cyber security enthusiast.\
 I love solving problems with software.
 
 ### My Skills
