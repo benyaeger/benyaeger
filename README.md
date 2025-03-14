@@ -1,5 +1,5 @@
 ## Hi - I'm Ben Yaeger 👋
-I am a 21 years old backend software engineer.\
+a 22 years old software engineer.\
 I love solving problems with software.
 
 ### Technical Skills
