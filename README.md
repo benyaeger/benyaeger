@@ -1,5 +1,5 @@
-## Hi - I'm Ben Yaeger 👋
-a 22 years old software engineer.\
+## Hi - I'm Ben Yaeger
+a 22 years old BizOps Engineer.\
 I love solving problems with software.
 
 ### Technical Skills
